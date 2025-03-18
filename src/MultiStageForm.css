@@ -1,0 +1,17 @@
+.cuisine-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.next-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.next-button {
+  background-color: rgb(25, 155, 224);
+}
